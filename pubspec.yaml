@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  dartx: ^1.1.0
-  intl: ^0.18.1
+  dartx: ^1.2.0
+  intl: ^0.20.2
 
 dev_dependencies:
   flutter_test:
